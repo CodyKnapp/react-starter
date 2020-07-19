@@ -57,7 +57,7 @@
     "chromedriver": "^80.0.2",
     "dom-sim": "^1.0.0",
     "jsdom": "^16.2.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mocha": "^7.1.0",
     "parcel-bundler": "^1.12.4",
     "redux-mock-store": "^1.5.3",
